@@ -1,0 +1,1 @@
+User can search by address or GLID and hit Qualify, True 

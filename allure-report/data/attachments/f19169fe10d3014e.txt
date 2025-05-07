@@ -1,0 +1,1 @@
+User can drill into the Address Details page by clicking the name or address of a request, True 

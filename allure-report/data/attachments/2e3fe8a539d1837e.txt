@@ -1,0 +1,7 @@
+manual address submission, False 
+Error during test_address_entry: Address qualification failed
+assert False
+ +  where False = is_visible()
+ +    where is_visible = <Locator frame=<Frame name= url='https://qq.att.com/landing'> selector='internal:text="Expires on"i'>.is_visible
+ +      where <Locator frame=<Frame name= url='https://qq.att.com/landing'> selector='internal:text="Expires on"i'> = get_by_text('Expires on')
+ +        where get_by_text = <Page url='https://qq.att.com/landing'>.get_by_text
